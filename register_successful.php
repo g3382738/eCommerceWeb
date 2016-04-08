@@ -52,7 +52,7 @@
 					<header>
 					  <h2>Congratulations!</h2>
 					  <p>You have been successfully registered!
-                      <br>You will be automatically redirected to <a href="index.html">mainpage</a> in <span id="jumpTo">5</span> seconds.</p>
+                      <br>You will be automatically redirected to <a href="index.php">mainpage</a> in <span id="jumpTo">5</span> seconds.</p>
                       <!--<script> window.setInterval("location='index.html'",5000); </script>-->
 					</header>
 				</section>
