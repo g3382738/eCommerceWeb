@@ -1,7 +1,8 @@
 # ECommerceWebsite
+-----------------------------------
 ### University of Virginia
 #### Tong Gou, Shuaiqi Cao, Ruiyuan Jiang
-----------------------------------
+-----------------------------------
 This is a project for eCommerce course.
 
 Basic functions: Sign-up, Sign-in, Sign-out, Online Payment, AutoMailing.
