@@ -7,4 +7,16 @@ Techniques: HTML5, PHP(Session Restrict, Connection to MySQL), jQuery, AJAX, Jav
 
 MileStone1:
 -----------------------------------
-   ###Front-end design. Develop the basic framework and structure of our website, come up with a good bussiness idea. Design the required Homepage, About Us Page, and Sign up Page.
+Front-end design. Develop the basic framework and structure of our website, come up with a good bussiness idea. Design the required Homepage, About Us Page, and Sign up Page.
+
+MileStone2:
+-----------------------------------
+Back-end design. Design and realize the basic function of Sign Up Page, enable to transfer the contents from the form to the back-end database. And also, add the validation check to each text box.
+
+MileStone3:
+-----------------------------------
+Front-end design. Develop the basic framework and structure of our website, come up with a good bussiness idea. Design the required Homepage, About Us Page, and Sign up Page.
+
+MileStone4:
+-----------------------------------
+Front-end design. Develop the basic framework and structure of our website, come up with a good bussiness idea. Design the required Homepage, About Us Page, and Sign up Page.
