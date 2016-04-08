@@ -1,5 +1,5 @@
 <?php
-    $servername = 'localhost:3306';
+    $servername = 'localhost';
     $username = 'dreamoverseas';
     $passwordu = '123456gt';
     $databases = 'dreamoverseas';
