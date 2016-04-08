@@ -2,6 +2,7 @@
 This is a project for eCommerce course.
 
 Basic functions: Sign-up, Sign-in, Sign-out, Online Payment, AutoMailing.
+
 Techniques: HTML5, PHP(Session Restrict, Connection to MySQL), jQuery, AJAX, JavaScript(Validation Check, Animations), CSS, API(stripe, PHPMailer).
 
 MileStone1:
