@@ -1,6 +1,6 @@
 # ECommerceWebsite
 
-### University of Virginia
+## University of Virginia
 #### Tong Gou, Shuaiqi Cao, Ruiyuan Jiang
 ===================================
 This is a project for eCommerce course.
